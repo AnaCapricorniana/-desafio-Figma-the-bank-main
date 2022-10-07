@@ -1,0 +1,20 @@
+@media (max-width: 768px) {
+    .cartao-menu {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+
+    }
+
+    .navegaçao .lista li {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+
+    }
+
+
+}

@@ -1,0 +1,80 @@
+ body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    background-color: var(--cor-fundo);
+
+}
+
+
+.cartao-menu {
+    display: flex;
+    justify-content:space-between;
+    height: 100vh;
+    height:50%;
+    
+
+}
+
+.menu {
+    
+    flex-direction: wrap;
+    align-items:baseline;
+    margin: 20px;
+    
+}
+
+.the-bank {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.the-bank h2 {
+    font-size: 20px;
+    width: 80px;
+    height: 24px;
+   
+
+}
+
+.navegaçao .lista li {
+    display: inline-flex;
+    align-items: center;
+    list-style-type: none;
+    margin: 30px;
+    font-weight: 400;
+    font-size: 15px;
+    
+   
+    
+}
+
+.botao {
+    
+    background-color: var(--cor-geral);
+    color: var(--cor-fundo);
+    font-size: 15px;
+    font-weight: 300;
+    margin: 22px;
+    border-radius: 10px;
+    width: 137px;
+    height: 39px;
+}
+
+
+.sobre {
+    background-color: var(--cor-geral);
+    color: var(--cor-fundo);
+    font-size: 15px;
+    font-weight: 300;
+    width: 55px;
+    height: 40px;
+   
+    
+    
+    
+    
+}
+  
+    
